@@ -1,24 +1,36 @@
 
-
 button{
-    padding:50px; 
+    padding:30px 150px 30px 150px; 
     border-radius: 2px;
     color: black;
     background-color: white;
-    font-size:5px;
-    border:solid, 2px, red;
+    font-size:60px;
+    border:solid 10px gray;
     cursor:pointer;
-    margin:10px;
+    margin:50px;
+    font-family: 'Alata';
 
  }
-
+  
  .CButton
  {
    text-align: center;
+      
  }
 
- .GenderTXT{
-    text-align: center;
-    font-family: "Helvetica";
-    color: white;
+ .title{
+    background-color: Grey;
+    padding: 20px;
  }
+
+ #GenderTXT{
+    text-align: center;
+    font-family: 'Alata';
+    color: white;
+    font-size: 50px;
+     padding:1px; 
+     margin: 100px 5px 100px 5px ;
+    
+ }
+    
+ 
