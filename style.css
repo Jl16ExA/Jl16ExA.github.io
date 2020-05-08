@@ -5,10 +5,10 @@ button{
     border-radius: 10px;
     color: black;
     background-color: white;
-    font-size:1.1em;
-    border:0;
+    font-size:5px;
+    border:solid, 2px, red;
     cursor:pointer;
-    margin:1em;
+    margin:5px;
 
  }
 
@@ -17,4 +17,8 @@ button{
    text-align: center;
  }
 
- 
+ .GenderTXT{
+    text-align: center;
+    font-family: "Helvetica";
+    color: white;
+ }
