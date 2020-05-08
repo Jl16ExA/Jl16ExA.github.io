@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:900');
 
 button{
     padding:30px 150px 30px 150px; 
@@ -8,7 +9,7 @@ button{
     border:solid 10px gray;
     cursor:pointer;
     margin:50px;
-    font-family: 'Alata';
+    font-family: 'Roboto';
 
  }
   
@@ -25,7 +26,7 @@ button{
 
  #GenderTXT{
     text-align: center;
-    font-family: 'Alata';
+    font-family: 'Roboto';
     color: white;
     font-size: 50px;
      padding:1px; 
