@@ -12,12 +12,10 @@ function women(){
 }
    
 function menquit(){
-    document.getElementById("GenderTXT").innerHTML = "Nice Style Boy!";  
     document.getElementById("imgMen").style.visibility="hidden";
 }
 
 function womenquit(){
-   document.getElementById("GenderTXT").innerHTML = "Nice Style Girl!"; 
    document.getElementById("imgWomen").style.visibility="hidden";
 }
   
