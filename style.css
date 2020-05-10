@@ -1,34 +1,30 @@
-button{
-   padding:30px 150px 30px 150px; 
-   border-radius: 2px;
-   color: black;
-   background-color: white;
-   font-size:60px;
-   border:solid 10px black;
-   cursor:pointer;
-   margin:50px;
-   font-family: 'Roboto';
-
+button {
+  padding: 30px 150px 30px 150px;
+  border-radius: 2px;
+  color: black;
+  background-color: white;
+  font-size: 60px;
+  border: solid 10px black;
+  cursor: pointer;
+  margin: 50px;
+  font-family: "Roboto";
 }
- 
-.CButton
-{
+
+.CButton {
   text-align: center;
-     
 }
 
-.title{
-   background-color: black;
-   padding: 20px;
+.title {
+  background-color: black;
+  padding: 20px;
 }
 
-#GenderTXT{
-   text-align: center;
-   font-family: 'Roboto';
-   color: white;
-   font-size: 50px;
-    padding:1px; 
-    margin: 1px 5px 100px 5px ;
-    letter-spacing: 0.16em;
+#GenderTXT {
+  text-align: center;
+  font-family: "Roboto";
+  color: white;
+  font-size: 50px;
+  padding: 1px;
+  margin: 1px 5px 100px 5px;
+  letter-spacing: 0.16em;
 }
-   
