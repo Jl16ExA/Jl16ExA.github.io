@@ -31,26 +31,27 @@ button{
 
  #Style4U{
 
-   position: absolute;
-   width: 710px;
-   height: 38px;
-   left: 127px;
-   top: 36px;
-   
-   font-family: Roboto;
-   font-style: normal;
-   font-weight: 900;
-   font-size: 48px;
-   line-height: 100px;
-   /* or 208% */
-   
-   display: flex;
-   align-items: center;
-   text-align: center;
-   letter-spacing: 0.32em;
+    position: absolute;
+    width: 710px;
+    height: 38px;
+    left: 328px;
+    top: 29px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 100px;
+/* or 208% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.32em;
    text-transform: uppercase;
-   
-   color: #FFFFFF;
+
+    color: #FFFFFF;
+
    
 
  }
@@ -59,26 +60,27 @@ button{
     /* STYLE FOR EVEYONE */
 
 
-   position: absolute;
+    position: absolute;
     width: 252px;
     height: 23px;
-    left: 356px;
-    top: 74px;
-
-   font-family: Roboto;
+    left: 557px;
+    top: 67px;
+    
+    font-family: Roboto;
     font-style: normal;
-   font-weight: 900;
-   font-size: 13px;
-   line-height: 100px;
-/* or 769% */
-
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 100px;
+    /* or 769% */
+    
     display: flex;
     align-items: center;
-   text-align: center;
-   letter-spacing: 0.16em;
-   text-transform: uppercase;
-
+    text-align: center;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    
     color: #FFFFFF;
+    
 
  }
     
