@@ -23,32 +23,32 @@ button{
    left: 0%;
    right: 0%;
    top: 0%;
-   bottom: 0%;
-   
-   background: #000000;
+   bottom: 72.4%;
+
+background: #000000;
  }
 
  #Style4U{
 
     position: absolute;
-    width: 710px;
-    height: 38px;
-    left: 328px;
-    top: 29px;
-
+    left: 24.01%;
+    right: 24.01%;
+    top: 10.16%;
+    bottom: 84.9%;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: 900;
     font-size: 48px;
     line-height: 100px;
-/* or 208% */
-
+    /* or 208% */
+    
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.32em;
-   text-transform: uppercase;
-
+    text-transform: uppercase;
+    
     color: #FFFFFF;
 
    
@@ -58,12 +58,11 @@ button{
  #GenderTXT{
     /* STYLE FOR EVEYONE */
 
-
     position: absolute;
-    width: 252px;
-    height: 23px;
-    left: 557px;
-    top: 67px;
+    left: 40.78%;
+    right: 40.78%;
+    top: 16.41%;
+    bottom: 80.6%;
     
     font-family: Roboto;
     font-style: normal;
