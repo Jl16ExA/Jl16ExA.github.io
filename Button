@@ -1,0 +1,9 @@
+   padding:30px 150px 30px 150px; 
+    border-radius: 2px;
+    color: black;
+    background-color: white;
+    font-size:60px;
+    border:solid 10px gray;
+    cursor:pointer;
+    margin:50px;
+    font-family: 'Roboto';
