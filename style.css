@@ -20,18 +20,66 @@ button{
  }
 
  .title{
-    background-color: Grey;
-    padding: 20px;
+   position: absolute;
+   width: 964px;
+   height: 129px;
+   left: 0px;
+   top: 0px;
+   
+   background: #000000;
+ }
+
+ #Style4U{
+
+   position: absolute;
+   width: 710px;
+   height: 38px;
+   left: 127px;
+   top: 36px;
+   
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 48px;
+   line-height: 100px;
+   /* or 208% */
+   
+   display: flex;
+   align-items: center;
+   text-align: center;
+   letter-spacing: 0.32em;
+   text-transform: uppercase;
+   
+   color: #FFFFFF;
+   
+
  }
 
  #GenderTXT{
-    text-align: center;
-    font-family: 'Roboto';
-    color: white;
-    font-size: 50px;
-     padding:1px; 
-     margin: 1px 5px 100px 5px ;
-    
+    /* STYLE FOR EVEYONE */
+
+
+   position: absolute;
+    width: 252px;
+    height: 23px;
+    left: 356px;
+    top: 74px;
+
+   font-family: Roboto;
+    font-style: normal;
+   font-weight: 900;
+   font-size: 13px;
+   line-height: 100px;
+/* or 769% */
+
+    display: flex;
+    align-items: center;
+   text-align: center;
+   letter-spacing: 0.16em;
+   text-transform: uppercase;
+
+    color: #FFFFFF;
+
  }
     
  
