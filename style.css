@@ -1,61 +1,16 @@
 
 
-#Women{
-
-
-   border: 2px solid #000000;
-   box-sizing: border-box; 
-
-   position: absolute;
-   left: 0.96%;
-   right: 37.32%;
-   top: 1.89%;
-   bottom: 45.28%;
-   
-   font-family: Roboto;
-   font-style: normal;
-   font-weight: 900;
-   font-size: 18px;
-   line-height: 89px;
-   /* or 494% */
-   
-   display: flex;
-   align-items: center;
-   text-align: center;
-   letter-spacing: 0.275em;
-   text-transform: uppercase;
-   
-   color: #000000;
-   
- }
-
- #Men{
-
-   border: 2px solid #000000;
-   box-sizing: border-box;
-
-   position: absolute;
-   left: 0.96%;
-   right: 37.32%;
-   top: 1.89%;
-   bottom: 45.28%;
-
-   font-family: Roboto;
-   font-style: normal;
-   font-weight: 900;
-   font-size: 18px;
-   line-height: 89px;
-   /* or 494% */
-
-   display: flex;
-   align-items: center;
-   text-align: center;
-   letter-spacing: 0.275em;
-   text-transform: uppercase;
-
-   color: #000000;
-
- }
+button{
+   padding:30px 150px 30px 150px; 
+   border-radius: 2px;
+   color: black;
+   background-color: white;
+   font-size:60px;
+   border:solid 10px gray;
+   cursor:pointer;
+   margin:50px;
+   font-family: 'Roboto';
+}
   
  .CButton
  {
