@@ -2,12 +2,12 @@
 let Message = document.getElementById("GenderTXT").innerHTML;
 
 function men(){
-     document.getElementById("GenderTXT").innerHTML = "Nice Style Boy!";  
+     document.getElementById("GenderTXT").innerHTML = "NICE STYLE MAN";  
      document.getElementById("imgMen").style.visibility="visible";
 }
 
 function women(){
-    document.getElementById("GenderTXT").innerHTML = "Nice Style Girl!"; 
+    document.getElementById("GenderTXT").innerHTML = "NICE STYLE GIRL"; 
     document.getElementById("imgWomen").style.visibility="visible";
 }
    
